@@ -1,2 +1,2 @@
 # Guess-my-number
-Simple, retro style, number guessing game
+## This is a simple, retro style, number guessing game
